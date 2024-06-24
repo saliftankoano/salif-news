@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  width: 100%;
+}
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 38px;
+  color: #232527;
+  width: 50%;
+  padding-top: 25px;
+}
+#email {
+  width: 12%;
+  border: 1px solid orange;
+}
+
+.submit {
+  background-color: #ef4136;
+  font-size: 20px;
+  color: white;
+  padding: 5.25px;
+  border-radius: 4px;
+  border: none;
+}
+
+.contents {
+  margin-top: 10%;
+  padding-left: 10%;
+}
+
+#email {
+  border: 1px solid gray;
+  height: 30px;
+}
